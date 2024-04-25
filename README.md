@@ -26,6 +26,9 @@ O AluraPlay é uma plataforma de vídeos com um layout moderno e rico em element
 - Vídeos distribuídos quatro por linha
 - Rodapé expandido com tópicos um ao lado do outro
 
+## Acesse o Projeto
+[![Acesse o Projeto](https://img.shields.io/badge/Acesse%20o%20Projeto-Link-blueviolet)](https://deboranortes.github.io/alura-play/)
+
 ## Tecnologias Utilizadas
 - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
